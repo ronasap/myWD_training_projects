@@ -1,2 +1,2 @@
-# WD_training_projects_from_SDN
+# WD_training_projects
 My WD development
